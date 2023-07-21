@@ -1,0 +1,5 @@
+{
+ "curr_heating_type":["Natural Gas", "Propane", "Oil", "Electric", "Heat Pump"],
+ "new_heating_type":["Natural Gas", "Propane", "Oil", "Electric", "Heat Pump", "Dual Fuel-Natural Gas", "Dual Fuel-Oil", "Dual Fuel-Propane"]
+    
+}
